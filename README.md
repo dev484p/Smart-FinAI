@@ -8,13 +8,15 @@ SMART FIN-AI is an advanced chatbot designed to assist with finance-related quer
 * Efficient Embeddings: Employs HuggingFace embeddings for improved understanding and semantic matching.
 * Chroma DB Integration: Stores and retrieves financial knowledge with Chroma DB for high-performance querying.
 * Customizable & Scalable: Easily adaptable to various finance use cases and extensible to support more data sources.
+* Powered by Llama2: Utilizes the robust capabilities of Llama2 for generative responses and superior performance.
 
 ## 🛠️ Tech Stack
 * LangChain: Framework for building applications powered by language models.
 * Chroma DB: Vector database for efficient data retrieval.
 * HuggingFace Models: State-of-the-art pre-trained embeddings for natural language processing.
 * Python: Primary language for development.
-
+* llama2*: State-of-the-art generative AI model.
+ 
 ## 🚀 Getting Started
 ### Prerequisites
 * Python 3.8 or later
