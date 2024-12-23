@@ -17,7 +17,7 @@ SMART FIN-AI is an advanced chatbot designed to assist with finance-related quer
 * Python: Primary language for development.
 * llama2*: State-of-the-art generative AI model.
  
-## 🚀 Getting Started
+## 💡 Getting Started
 ### Prerequisites
 * Python 3.8 or later
 * pip (Python package manager)
@@ -33,3 +33,9 @@ Ollama is an AI library designed to work with various LLM models. You need to:
   ```
   ollama run llama2
   ```
+
+## ▶️Useage
+Run the following comand and enter the query :)
+```
+python main.py
+```
