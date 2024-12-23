@@ -24,3 +24,10 @@ SMART FIN-AI is an advanced chatbot designed to assist with finance-related quer
 ```
 pip install -r requirements.txt
 ```
+### Note - Make sure you have installed Ollama and Lamma2 :
+Ollama is an AI library designed to work with various LLM models. You need to:
+* Download and set up Ollama: Follow the [Ollama documentation](https://ollama.com/download/windows) to install the runtime and configure it on your machine.
+* After setup of Ollama run following to install Lamma2
+  ```
+  ollama run llama2
+  ```
